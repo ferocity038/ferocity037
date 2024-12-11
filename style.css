@@ -8,6 +8,7 @@ body {
     color: #fff;
     overflow: hidden;
 }
+button,a{-webkit-tap-highlight-color:transparent;outline: none;}
 .calculator {
     border: 2px solid #000;
     padding: 20px;
